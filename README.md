@@ -75,7 +75,7 @@ This project is a fictional **Entertainment Events Booking System** for a venue 
 ## Screenshots
 
 ### Homepage
-![Homepage](path_to_screenshot)
+![alt text](https://github.com/aroon-sekar/Tooneland---Events-Booking-Website/blob/main/image.jpg?raw=true)
 
 ### Event Booking Page
 ![Booking Page](path_to_screenshot)
