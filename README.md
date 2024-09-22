@@ -16,7 +16,7 @@ Welcome to the **Entertainment Events Booking System**! This project is a dynami
 
 ## Project Overview
 
-This project is a fictional **Entertainment Events Booking System** for a venue located in [City Name], [Country Name]. Users can view available events and make bookings through a secure and user-friendly interface. The project demonstrates proficiency in building standards-compliant, database-driven web applications using **HTML5**, **CSS**, **PHP**, and **SQL**, with a focus on **security**, **accessibility**, and **user experience**.
+This project is a fictional **Entertainment Events Booking System** for a venue located in TooneLand. Users can view available events and make bookings through a secure and user-friendly interface. The project demonstrates proficiency in building standards-compliant, database-driven web applications using **HTML5**, **CSS**, **Javascript**, **PHP**, and **SQL**, focusing on **security**, **accessibility**, and **user experience**.
 
 ## Features
 
@@ -32,6 +32,7 @@ This project is a fictional **Entertainment Events Booking System** for a venue 
 - **Frontend:**
   - HTML5
   - CSS3 (external stylesheet)
+  - Javascript
 - **Backend:**
   - PHP (server-side scripting)
   - MySQL (database management)
@@ -75,16 +76,19 @@ This project is a fictional **Entertainment Events Booking System** for a venue 
 ## Screenshots
 
 ### Homepage
-![alt text](https://github.com/aroon-sekar/Tooneland---Events-Booking-Website/blob/main/image.jpg?raw=true)
+![Homepage](https://github.com/aroon-sekar/Tooneland---Events-Booking-Website/blob/main/Homepage.png?raw=true)
 
 ### Event Booking Page
-![Booking Page](path_to_screenshot)
+![Event Page](https://github.com/aroon-sekar/Tooneland---Events-Booking-Website/blob/main/event.png?raw=true)
+![Event Booking Page](https://github.com/aroon-sekar/Tooneland---Events-Booking-Website/blob/main/eventbooking.png?raw=true)
 
 ## Future Enhancements
 
 - **User Profile:** Implement a user dashboard for viewing past bookings and managing user information.
 - **Admin Panel:** Develop an admin panel to manage events and view bookings.
 - **Email Notifications:** Add email confirmations for successful bookings.
+- **OTP:** OTPs for secure Login
+- 
   
 ## References
 
